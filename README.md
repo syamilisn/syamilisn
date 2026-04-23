@@ -1,11 +1,7 @@
 # 💫 About Me:
-I'm a Software Engineer working at the intersection of Embedded Systems, Automotive Technology, and Smart Devices. My experience spans platforms like Raspberry Pi, Automotive Systems (cars, snowmobiles), and Android-Based Devices including smartphones and payment scanners.
+I'm a Software Engineer working at the intersection of Embedded Systems, Automotive Technology, and Smart Devices. My experience spans platforms like Raspberry Pi, Automotive Systems (cars, snowmobiles), and Android-Based Devices, including smartphones and payment scanners.
 
-I specialize in low-level system programming, focusing on kernel device drivers and device tree configurations—building software that directly interacts with hardware.
-
-I'm also a Machine Learning enthusiast, exploring how ML can be applied to low-level system data to identify and optimize hardware bottlenecks.
-
-With ~3.5 years of professional experience, I enjoy solving complex problems where hardware meets intelligence.
+I specialize in low-level system programming, focusing on kernel device drivers and device tree configurations—building software that directly interacts with hardware. I'm also a Machine Learning enthusiast, exploring how ML can be applied to low-level system data to identify and optimize hardware bottlenecks. With ~3.5 years of professional experience, I enjoy solving complex problems at the intersection of hardware and intelligence.
 
 Beyond tech, I express creativity through watercolor and acrylic painting, and I’m an avid reader of mystery and self-development.
 
